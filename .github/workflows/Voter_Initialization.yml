@@ -31,5 +31,5 @@ jobs:
         with:
           username: ${{ secrets.DOCKER_USERNAME }}
           password: ${{ secrets.DOCKER_PASSWORD }}
-          repository: nushan23/voterapi
+          repository: nushan23/voterapii
           tag_with_ref: true
